@@ -12,8 +12,6 @@ While I'm not looking to add much when it comes to features, you're free to crea
 
 Do you like this tool or do you find it useful? Consider a small donation, just to say thank you :)
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/)](https://en.cryptobadges.io/donate/)
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xb7f54542A55412Fd6de210f60658814DDD7A1bD6)](https://en.cryptobadges.io/donate/0xb7f54542A55412Fd6de210f60658814DDD7A1bD6)
-
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv)](https://en.cryptobadges.io/donate/M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv)
+**BTC:** Coming soon...
+**ETH:** 0xb7f54542A55412Fd6de210f60658814DDD7A1bD6
+**LTC:** M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv
