@@ -17,3 +17,5 @@ Do you like this tool or do you find it useful? Consider a small donation, just 
 **ETH:** 0xb7f54542A55412Fd6de210f60658814DDD7A1bD6
 
 **LTC:** M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv
+
+![](https://github.com/cryptoc00kie/Posy/blob/master/sample.png)
