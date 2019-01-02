@@ -14,6 +14,6 @@ Do you like this tool or do you find it useful? Consider a small donation, just 
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/17AM4MFXuyC72HSur44foWBxSDGUPgZJwD)](https://en.cryptobadges.io/donate/17AM4MFXuyC72HSur44foWBxSDGUPgZJwD)
 
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xa6281eb66b919cfa471dc304d326588844fc1228)](https://en.cryptobadges.io/donate/0xa6281eb66b919cfa471dc304d326588844fc1228)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xb7f54542A55412Fd6de210f60658814DDD7A1bD6)](https://en.cryptobadges.io/donate/0xb7f54542A55412Fd6de210f60658814DDD7A1bD6)
 
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LZ2sL2ZSWLCoG2X39SzEaqXSYTDL7k9Wpz)](https://en.cryptobadges.io/donate/LZ2sL2ZSWLCoG2X39SzEaqXSYTDL7k9Wpz)
+[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv)](https://en.cryptobadges.io/donate/M9XV5PHaMYZMhuzMHFmtjfLoL9LRb2VCiv)
