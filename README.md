@@ -12,7 +12,7 @@ While I'm not looking to add much when it comes to features, you're free to crea
 
 Do you like this tool or do you find it useful? Consider a small donation, just to say thank you :)
 
-**BTC:** Coming soon...
+**BTC:** 3BDPGXj1wS4E8UEL3gVoP7TxL7cnSpM6St
 
 **ETH:** 0xb7f54542A55412Fd6de210f60658814DDD7A1bD6
 
